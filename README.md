@@ -6,16 +6,14 @@ Introduction to Computer Simulations, Spring 2014, NYU
 
 Prof. Charles S. Peskin
 
-This is a genetic program that takes a initial population of notes
-and evolves it to a simple melody and accompanying harmony. 
-It produces sound by using a physics simulation of vibrations of strings in a piano.
+This is a genetic program that takes a initial population of notes and evolves it to a simple melody and accompanying harmony. It produces sound by using a physics simulation of vibrations of strings in a piano.
 
 Please download and run in folder. Make sure you have all the necessary functions:
-fitness_melody.m
-fitness_harmony.m
-mutation.m
-crossover.m
-MajorScale.m
+- fitness_melody.m
+- fitness_harmony.m
+- mutation.m
+- crossover.m
+- MajorScale.m
 
 You may change the central_tone to change the key of the song. 1 is F4 and it 
 goes half steps from that note until the specified number of piano keys (nstrings).
