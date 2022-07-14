@@ -1,7 +1,9 @@
 # I'll Be Bach : Music and Genetic Algorithms
 
 MATLAB program by Marina Sundiang
+
 Introduction to Computer Simulations, Spring 2014, NYU
+
 Prof. Charles S. Peskin
 
 This is a genetic program that takes a initial population of notes
